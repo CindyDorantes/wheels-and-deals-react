@@ -35,7 +35,7 @@
 
 # 📖 WHEELS AND DEALS: REACT FRONT-END <a name="about-project"></a>
 
-> **Wheels and Deals** is an app to book an appointment to try a car. The user is able to see the list of cars available and their details, as well as book a reservation or add a new car. The user needs to create an account to access the options for reservations and add new cars. Build with React, the app uses a rails API as the backend.
+> **Wheels and Deals** is an app to book an appointment to try a car. The user is able to see the list of cars available and their details, as well as book a reservation or add a new car. The user needs to create an account to access the options for reservations and add new cars. Build with React, the app uses a [rails API](https://github.com/CindyDorantes/wheels-and-deals-api) as the backend.
 
 <br/>
 
